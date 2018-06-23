@@ -1,0 +1,1 @@
+# nitro-hash-generator
